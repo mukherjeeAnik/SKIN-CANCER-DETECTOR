@@ -1,4 +1,4 @@
-# 🔬 DermaScan — Skin Cancer Classifier
+# 🔬 DermaScan — Skin Cancer Classifier 
 
 A local web application for classifying skin lesions using DenseNet-121 trained on the HAM10000 dataset.
 Runs fully on CPU — no GPU required.
