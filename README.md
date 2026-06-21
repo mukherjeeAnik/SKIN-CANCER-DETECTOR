@@ -1,6 +1,6 @@
 # DermaScan — Skin Lesion Classifier
 
-> **⚠️ Medical Disclaimer:** This tool is for **educational and research purposes only**.
+> **⚠️ Medical Disclaimer:** This tool is for **educational and research purposes only**. 
 > It does **not** constitute medical advice, diagnosis, or treatment.
 > Always consult a qualified dermatologist for any skin concerns.
 
