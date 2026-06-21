@@ -7,7 +7,7 @@ import torchvision.models as models
 import torchvision.transforms as transforms
 from PIL import Image 
 from flask import Flask, request, jsonify, render_template
-
+ 
 app = Flask(__name__)
 
 # ── Class definitions (HAM10000) ──────────────────────────────────────────────
