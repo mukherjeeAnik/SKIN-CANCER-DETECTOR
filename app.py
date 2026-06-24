@@ -11,7 +11,7 @@ from flask import Flask, request, jsonify, render_template
 app = Flask(__name__)
 
 # ── Class definitions (HAM10000) ──────────────────────────────────────────────
-# Each key is the class index (0–6) as output by the model's final layer.
+# Each key is the class index (0–6) as output by the model's final layer. 
 # To add/remove classes: update CLASSES dict + change the Linear layer output size in load_model().
 # 'risk' and 'color' are UI hints only — not used in model inference.
 CLASSES = {
